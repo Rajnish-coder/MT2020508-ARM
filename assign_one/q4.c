@@ -8,7 +8,7 @@ int main()
 
     printf("Enter the numbers to sort");
 
-    int n=5;
+    int n=20;
 
     for(int i=0;i<n;i++)
     {
