@@ -1,4 +1,5 @@
 // Empty Descending stack
+// Note: The stack can accomadate atmost 5 elements
 
 #include<stdio.h>
 #include<stdlib.h>
