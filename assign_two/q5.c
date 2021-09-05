@@ -1,4 +1,5 @@
 // Implementation of a simple queue
+// Note: The queue can accomadate atmost 5 elements.
 
 #include<stdio.h>
 #include<stdlib.h>
