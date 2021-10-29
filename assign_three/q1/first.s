@@ -12,7 +12,7 @@ __main  FUNCTION
 		MOV  R2, #6
 		STR  R2, [R1,#0x4]    ;  second number is 6
 		MOV  R2, #7
-		STR  R2, [R1,#0x8]     ; third number is 8
+		STR  R2, [R1,#0x8]     ; third number is 7
 		LDR  R2, [R1]
 		LDR  R3, [R1,#0x4]
 		LDR  R4, [R1,#0x8]
